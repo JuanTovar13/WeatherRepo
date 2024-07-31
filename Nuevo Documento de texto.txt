@@ -1,4 +1,9 @@
 Hola mundo!
+<<<<<<< HEAD
 el pepe
 wtf
 sdkjsljd
+=======
+el pepe 
+wtf
+>>>>>>> eaf2bd20955f263043ba464df634322c4b52bc28
